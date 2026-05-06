@@ -60,7 +60,7 @@ Modern analytics dashboard with advanced responsive layouts and interactions.
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/elemide-daniel-korede-4a14ab20b">
+<a href="https://www.linkedin.com/in/danielelemide">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
