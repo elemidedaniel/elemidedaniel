@@ -15,7 +15,7 @@
 
 ## Who I Am
 
-I build AI-powered products from the ground up — prompt systems, LLM integrations, RAG pipelines, and the React interfaces that make them usable by real people.
+I build AI-powered products from the ground up prompt systems, LLM integrations, RAG pipelines, and the React interfaces that make them usable by real people.
 
 My background is in frontend engineering. My current focus is AI engineering. The combination means I can take an AI idea from prompt design to deployed product without needing a separate team to bridge the gap.
 
@@ -79,15 +79,15 @@ Backend               →  Python, FastAPI, REST APIs, SQL
 <tr>
 <td width="50%" valign="top">
 
-### ApplyAI — AI Career Intelligence Platform
+### ApplyAI —> AI Career Intelligence Platform
 AI SaaS product that tailors resumes, writes cover letters, scores job-candidate match across 4 dimensions, generates interview questions, and estimates salary ranges.
 
 **Built with:** React · Groq API · LLaMA 3.3 · FastAPI · ChromaDB
 
 **What makes it real:** Structured prompt system with JSON extraction and runtime error recovery. Migrated from Gemini to Groq mid-build after diagnosing a zero-quota API failure.
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel)
-[![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)](https://github.com/elemidedaniel)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel/ApplyAi)
+[![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)](https://github.com/elemidedaniel/ApplyAi)
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +97,7 @@ RAG-based document intelligence platform. Users upload documents, ask questions,
 
 **Built with:** Python · FastAPI · LangGraph · LangChain · ChromaDB · React
 
-**What makes it real:** Full document ingestion pipeline, vector storage with semantic search, multi-step agentic Q&A with LangGraph — delivered as a production-ready technical package.
+**What makes it real:** Full document ingestion pipeline, vector storage with semantic search, multi-step agentic Q&A with LangGraph delivered as a production-ready technical package.
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel)
 [![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)](https://github.com/elemidedaniel)
@@ -107,7 +107,7 @@ RAG-based document intelligence platform. Users upload documents, ask questions,
 <tr>
 <td width="50%" valign="top">
 
-### MediCare — Healthcare Web Platform
+### MediCare —> Healthcare Web Platform
 Multi-page clinic platform with appointment booking, doctor profiles, Supabase auth, patient portal, and AI-powered symptom-to-department matching.
 
 **Built with:** React · Tailwind v4 · Supabase · react-hook-form
@@ -120,7 +120,7 @@ Multi-page clinic platform with appointment booking, doctor profiles, Supabase a
 </td>
 <td width="50%" valign="top">
 
-### PRISM — Retail Analytics Dashboard
+### PRISM —> Retail Analytics Dashboard
 7-page dark-mode analytics dashboard covering revenue, product performance, customer segments, regional markets, risk monitoring, and report generation.
 
 **Built with:** React · Recharts · Tailwind CSS
