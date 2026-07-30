@@ -114,22 +114,21 @@ Multi-page clinic platform with appointment booking, doctor profiles, Supabase a
 
 **What makes it real:** 4-step booking flow with cascading state reset logic. Patient portal with real authentication and live database queries.
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel)
-[![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)](https://github.com/elemidedaniel)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel/medicare)
+[![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)]([https://github.com/elemidedaniel](https://medicare-two-chi.vercel.app/))
 
 </td>
 <td width="50%" valign="top">
 
-### PRISM —> Retail Analytics Dashboard
-7-page dark-mode analytics dashboard covering revenue, product performance, customer segments, regional markets, risk monitoring, and report generation.
+### SQLEval — AI Text-to-SQL Evaluation Platform
+An end-to-end evaluation platform that benchmarks Large Language Models on Text-to-SQL tasks. It executes generated SQL against real databases, measures execution accuracy, latency, cost, and failure modes, then visualizes results through an interactive dashboard for side-by-side model comparison.
 
-**Built with:** React · Recharts · Tailwind CSS
+**Built with:** React · FastAPI · Python · SQLite · LLM APIs
 
-**What makes it real:** Found and fixed a Tailwind v4/Vite plugin conflict that silently swallowed CSS class definitions — implemented inline-style layout as the architectural fix.
+**What makes it real:** Designed and deployed the full evaluation pipeline, built asynchronous benchmarking workflows, integrated multiple LLM providers, implemented SQL execution and scoring, and solved complex production issues involving async event loops, embedding API migrations, rate limits (429), CORS, SSL/TLS failures, deployment, and model evaluation reliability.
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel)
-[![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)](https://github.com/elemidedaniel)
-
+[![Repo](https://img.shields.io/badge/GitHub-Repo-111111?style=flat-square&logo=github)](https://github.com/elemidedaniel/sqleval)
+[![Live](https://img.shields.io/badge/Live-Demo-C49A6C?style=flat-square)](https://sqleval.vercel.app/)
 </td>
 </tr>
 </table>
