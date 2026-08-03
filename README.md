@@ -4,15 +4,25 @@
 
 ### AI Engineer • LLM Systems • Frontend Engineer
 
-Building production AI systems—from retrieval pipelines and agent workflows to the interfaces people actually use.
+Building production AI applications, retrieval systems, and modern web experiences.
 
 <p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://my-portfolio-qz5c.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danielelemide)
-[![Email](https://img.shields.io/badge/Email-Contact-C49A6C?style=for-the-badge&logo=gmail)](mailto:elemidedaniel4@gmail.com)
+<a href="https://github.com/elemidedaniel">
+<img src="https://img.shields.io/badge/Open_to_Work-C49A6C?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/danielelemide">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:elemidedaniel4@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Application+Developer;RAG+Systems;React+Frontend+Engineer;Building+AI+Products+That+Ship"/>
 
 </div>
 
